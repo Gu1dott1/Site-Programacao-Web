@@ -1,0 +1,180 @@
+
+body{
+    margin: 0px;
+    padding: 0px;
+}
+.logoimage{
+    margin-top: 15px;
+}
+.corpo{
+    width: 100%;
+    height: 100%;
+    background-color: #969a92;
+    background-image: url(https://static.vecteezy.com/ti/vetor-gratis/p3/5239950-conceito-laranja-e-preto-modelo-cinza-e-branco-contraste-fundo-ilustracao-design-grafico-vetor.jpg);
+    background-repeat:no-repeat;
+    background-size: cover;
+}
+.cardlogin{
+    width: 300px;
+    height: 405px;
+    background-color: rgba(255, 255, 255, 0.4);
+    margin-top: 20px;
+    border-bottom-left-radius: 20px;
+    border-bottom-right-radius: 20px;
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+    
+}
+.cardlogin1{
+    width: 300px;
+    height: 405px;
+    margin-top: 20px;
+    border-bottom-left-radius: 20px;
+    border-bottom-right-radius: 20px;
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+    opacity: 1;
+
+}
+.botaoLogin1{
+    width: 150px;
+    height: 40px;
+    align-items: center;
+    float: left;
+    cursor: pointer;
+    background-color: #ff8c00;
+    border-bottom: none;
+    border-top: none;
+    border-left: #98590b;
+    box-shadow:inset 0px 1px 0px 0px #fce2c1;
+    border-top-left-radius: 7px;
+    
+}
+.botaoLogin2{
+    width: 150px;
+    height: 40px;
+    align-items: center;
+    float: left;
+    cursor: pointer;
+    background-color: #ff8c00;
+    border-bottom: none;
+    border-top: none;
+    border-left: #98590b;
+    border-right: none;
+    box-shadow:inset 0px 1px 0px 0px #fce2c1;
+    border-top-right-radius: 7px;
+}
+.botaoLogin1:hover{
+    background-color: #d75413;
+    transition: all 0.5s;
+}
+.botaoLogin2:hover{
+    background-color: #d75413;
+    transition: all 0.5s;
+}
+.titulo{
+    margin-bottom: 10px;
+    margin-top: 40px;
+}
+
+.socialmedia{
+    float: left;
+    margin-left: 40px;
+    margin-top: 50px;
+    background-size: cover;
+    
+}
+.botaoEntrar{
+    width: 70%;
+    height: 40px;
+    border-radius: 7px;
+    margin-top: 40px;
+    background-color: #ff8c00;
+    border: none;
+}
+.botaoEntrar:hover{
+    background-color: #d75413;
+    cursor: pointer;
+    transition: all 0.5s;
+}
+.botaoCadastrar{
+    width: 70%;
+    height: 40px;
+    border-radius: 7px;
+    margin-top: 30px;
+    background-color: #ff8c00;
+    border: none;
+}
+.botaoCadastrar:hover{
+    background-color: #d75413;
+    cursor: pointer;
+    transition: all 0.5s;
+}
+.botaoLogin1Pressed{
+    width: 150px;
+    height: 40px;
+    align-items: center;
+    float: left;
+    cursor: pointer;
+    background-color: #d75413;
+    border-bottom: none;
+    border-top: none;
+    border-left: #2e2e2e;
+    border-top-left-radius: 7px;
+}
+.botaoLogin2Pressed{
+    width: 150px;
+    height: 40px;
+    align-items: center;
+    float: left;
+    cursor: pointer;
+    background-color: #d75413;
+    border-bottom: none;
+    border-top: none;
+    border-left: #2e2e2e;
+    border-right: none;
+    border-top-right-radius: 7px;
+}
+.inputlogin{
+    border-top: none;
+    border-left: none;
+    border-right: none;
+    color: rgb(36, 35, 35);
+    background-color: #bab8b5;
+    border-color: black;
+    padding: none;
+    width: 207px;
+    border: 1px solid rgba(255, 255, 255, 0.4);
+    background-color: rgba(255, 255, 255, 0.4);
+    border-bottom: #2e2e2e;
+
+}
+input::placeholder{
+    color: black;
+}
+.inputSenha{
+    border-top: none;
+    border-left: none;
+    border-right: none;
+    color:  rgb(36, 35, 35);
+    background-color: #bab8b5;
+    border-color: black;
+    background-color: rgba(255, 255, 255, 0.4);
+}
+.boasvindas{
+    width: 100%;
+    height: 7%;
+    background-color: black;
+}
+p,h4{
+    color: white;
+}
+.contato{
+    width: 25%;
+    height: 11%;
+    font-size: 12px;
+    margin-left: 40px;
+    margin-top: 25px;
+}
+
+
